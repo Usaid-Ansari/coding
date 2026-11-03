@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# IDE
+.idea/
+*.iml
+
+# Java
+*.class
+
+# Output
+out/
