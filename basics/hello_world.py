@@ -14,3 +14,14 @@ def python2(n):
     print(n)
 
 python2(6)
+
+def python3(n):
+    print(n)
+
+python3(7)
+
+a = 10 
+b = 10 
+print(a+b)
+
+
